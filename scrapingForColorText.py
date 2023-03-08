@@ -5,3 +5,5 @@ bsObj = BeautifulSoup(html)
 nameList = bsObj.findAll("span", {"class": "green"})
 for name in nameList:
     print(name.get_text())
+placesInText = bsObj.findAll(text="the prince")
+print("frequency of placement 'the prince' is " + (str(len(placesInText))))
