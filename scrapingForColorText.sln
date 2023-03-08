@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "scrapingForColorText", "scrapingForColorText.pyproj", "{4B81DC4B-355E-4378-8DB5-9073C27688F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B81DC4B-355E-4378-8DB5-9073C27688F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B81DC4B-355E-4378-8DB5-9073C27688F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B51E3E3-1E3D-4E9F-B131-89A1496A1C9B}
+	EndGlobalSection
+EndGlobal
